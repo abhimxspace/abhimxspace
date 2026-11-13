@@ -28,4 +28,4 @@ B2B digital marketing at Growth Grapher LLC · Performance marketing & SEO lead 
 
 ### Let's connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/abhishek-mishra-ln/) · 🌐 Portfolio: coming soon
+💼 [LinkedIn](https://www.linkedin.com/in/abhishek-mishra-ln/) · 🌐 [Portfolio](https://abhimxspace.github.io/portfolio/)
