@@ -19,7 +19,7 @@
 | Project | What it does |
 |---|---|
 | **ListHub** | List a product once and push it to every marketplace account. Includes AI listing generation, a Chrome extension for capturing competitor products, bulk export and n8n hooks |
-| **Marketing Automation Toolkit** | Meta Lead Ads → Google Sheets sync, a daily Meta Ads reporting sheet, Lead Ads → CRM Conversions API workflow (n8n), and an Apps Script leave-management system |
+| **[Marketing Automation Toolkit](https://github.com/abhimxspace/marketing-automation-toolkit)** | Meta Lead Ads → Google Sheets sync, a daily Meta Ads reporting sheet, Lead Ads → CRM Conversions API workflow (n8n), and an Apps Script leave-management system |
 | **Meta Ads MCP Server** | A local Node.js MCP server that lets Claude Desktop read and manage Meta ad campaigns |
 
 ### Background
@@ -28,4 +28,4 @@ B2B digital marketing at Growth Grapher LLC · Performance marketing & SEO lead 
 
 ### Let's connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/abhishek-mishra-ln/) · 🌐 [Portfolio](https://abhimxspace.github.io/portfolio/)
+📂 [Case studies](https://abhimxspace.github.io/portfolio/case-studies.html) · 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-mishra-ln/) · 🌐 [Portfolio](https://abhimxspace.github.io/portfolio/)
